@@ -1,2 +1,2 @@
 # hsar
-Semi-Supervised Thyroid Nodule Segmentation
+The source code will be released upon acceptance of the paper.
