@@ -1,2 +1,2 @@
 # hsar
-The source code will be released upon acceptance of the paper.
+This repository contains the official source code implementation of our proposed method.
